@@ -1,4 +1,4 @@
-#Intern test project
+# Intern test project
 
 Это приложение - тестовое задание, выполненное по следующему дизайну:
 https://www.figma.com/design/1VrYJ62cSC7yFJWsuUD3xa/Spar-Intern-Task?node-id=0-1&t=SuQD6RjUqoX4pPUF-1
